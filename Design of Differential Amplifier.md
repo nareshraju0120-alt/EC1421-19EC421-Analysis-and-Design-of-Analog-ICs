@@ -1,3 +1,4 @@
+
 # EC1421-19EC421-Analysis-and-Design-of-Analog-ICs
 # Differential Amplifier
 
@@ -21,8 +22,10 @@ an inverting amplifier and it is given as
 <img width="202" height="70" alt="image" src="https://github.com/user-attachments/assets/3cd34e03-1b28-4e8a-90a6-fe0c096c84cc" />
 
 ## CIRCUIT DIAGRAM: 
+<img width="1501" height="1599" alt="image" src="https://github.com/user-attachments/assets/9a3b1e2d-aad8-49a5-8775-0479caae8dc6" />
 
 ## MODEL GRAPH:
+<img width="1600" height="1246" alt="image" src="https://github.com/user-attachments/assets/56302eda-72d9-471a-9ec8-063810445895" />
 
 ## PROCEDURE:  
 ## Differential amplifier 
@@ -40,10 +43,14 @@ constant input voltage Vin2 to inverting terminal of op-amp through R2.
 <img width="284" height="156" alt="image" src="https://github.com/user-attachments/assets/48e39114-6231-4be4-9ac3-f0cb8999dc24" />
 
 ## TABULATION:
+<img width="1600" height="1250" alt="image" src="https://github.com/user-attachments/assets/90275b61-f504-4dcf-996c-9c3246eee58f" />
 
 ## CALCULATIONS:
+<img width="1521" height="1600" alt="image" src="https://github.com/user-attachments/assets/b50b198c-e71c-47ee-bdf0-016e2d23d078" />
 
 ## GRAPH:
+
+<img width="1256" height="1600" alt="image" src="https://github.com/user-attachments/assets/e877a0e6-a24f-45fb-ac3f-449f566502fc" />
 
  ## RESULTS:
  Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and their 
